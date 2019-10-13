@@ -2,5 +2,5 @@ theme: jekyll-theme-hacker
 timezone: Africa/Nairobi
 title: Brian's Bytes
 description: i even dont know
-github:
-  is_project_page: false
+show_downloads: false
+is_project_page: false
